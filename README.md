@@ -1,8 +1,8 @@
-# QuizMaster: Interactive Trivia Challenge
+# QuiTrivia: Interactive Trivia Challenge
 
 ## 🚀 Overview
 
-QuizMaster is an engaging, interactive trivia website built with Next.js, React, and Tailwind CSS. 
+QuizTrivia is an engaging, interactive trivia website built with Next.js, React, and Tailwind CSS. 
 Test your knowledge across various subjects with our adaptive difficulty levels and track your progress over time!
 
 ![Screenshot 2025-02-19 001552](https://github.com/user-attachments/assets/d9e1beb0-b051-45f8-912f-55094ad2a5a4)
