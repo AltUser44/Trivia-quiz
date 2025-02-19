@@ -29,6 +29,12 @@ Test your knowledge across various subjects with our adaptive difficulty levels 
 - Lucide React (for icons)
 - shadcn/ui components
 
-## 🚀 Getting Started
 
-1. Clone the repository:
+## Prerequisites
+Ensure you have the following installed on your system:
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/) and npm (if applicable)
+- Any other required dependencies
+- 
+## 🚀 Getting Started
+ Clone the repository:
