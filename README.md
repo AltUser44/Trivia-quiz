@@ -1,4 +1,4 @@
-# QuiTrivia: Interactive Trivia Challenge
+# QuizTrivia: Interactive Trivia Challenge
 
 ## 🚀 Overview
 
